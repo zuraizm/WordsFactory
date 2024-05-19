@@ -1,4 +1,3 @@
-# WordsFactory
 WordsFactory: A Customizable Word Generation Tool
 
 WordsFactory is a Python script that generates a list of words based on user input, making it a valuable tool for various purposes such as password cracking, wordlist generation, and more. This script is designed to save time and effort by providing a customizable solution for generating words that cater to specific needs.
@@ -33,3 +32,15 @@ Use Cases
 Getting Started
 
 To use WordsFactory, simply clone the repository, install the required dependencies, and run the script. Follow the prompts to input the required information, and the script will generate a list of words based on your input.
+
+License
+
+WordsFactory is licensed under the MIT License, which means it is free to use, modify, and distribute.
+
+Contributing
+
+If you'd like to contribute to WordsFactory, please fork the repository and submit a pull request with your changes. We welcome contributions and suggestions for improving the script.
+
+Disclaimer
+
+WordsFactory is intended for educational and research purposes only. It should not be used for malicious activities such as password cracking or unauthorized access. Use this script responsibly and in accordance with applicable laws and regulations.
